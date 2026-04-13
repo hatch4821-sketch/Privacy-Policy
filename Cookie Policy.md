@@ -4,9 +4,9 @@
 
 ## 1. Introduction
 
-This policy explains how we use cookies and similar technologies when you use our Services.
+This policy explains how we use cookies and similar technologies when you use our mobile app and services.
 
-By using our app/website, you agree to our use of cookies as described in this policy.
+By using our app, you agree to our use of cookies as described in this policy.
 
 ---
 
@@ -17,14 +17,14 @@ By using our app/website, you agree to our use of cookies as described in this p
 **What they are:** Small files stored on your device that help our app function.
 
 **Types we use:**
-- **Session cookies:** Temporary, deleted when you close the app/browser
+- **Session cookies:** Temporary, deleted when you close the app
 - **Persistent cookies:** Remain until you delete them or they expire
 
 ### 2.2 Other Technologies
 
-- **Pixels:** Tiny images in emails/pages that help us track engagement
-- **Local Storage:** Stores data on your device to improve app performance
+- **Local Storage:** Stores data on your device to improve app performance (caching community feed, job preferences)
 - **Mobile Ad IDs:** Used for analytics and advertising on mobile devices
+- **Pixels:** Tiny images in emails that help us track engagement
 
 ---
 
@@ -36,23 +36,27 @@ By using our app/website, you agree to our use of cookies as described in this p
 - Remember your preferences
 - Secure your account
 - Enable core app features
+- Track login sessions
 
 ### 3.2 Performance & Analytics
 
 - Understand how users use our app
 - Identify bugs and improvements
 - Measure feature usage
+- Track which posts, profiles, and communities you engage with
 
 ### 3.3 Personalization
 
 - Show relevant content in your feed
 - Recommend connections and communities
-- Suggest jobs based on your interests
+- Suggest jobs based on your interests and preferences
+- Remember your search history
 
 ### 3.4 Communication
 
 - Track if you open our emails
 - Measure campaign effectiveness
+- Improve notification relevance
 
 ---
 
@@ -60,21 +64,20 @@ By using our app/website, you agree to our use of cookies as described in this p
 
 We may share data with third parties:
 - **Analytics providers** (e.g., Google Analytics) for app analytics
-- **Payment processors** for any purchases
 - **Cloud services** for hosting
+- **Payment processors** for any purchases
 
 ---
 
 ## 5. Your Choices
 
-### 5.1 Browser Controls
+### 5.1 Device Controls
 
-Most browsers let you control cookies through settings. You can:
-- Review existing cookies
-- Delete cookies
-- Block certain types
+Most devices let you control cookies through settings. You can:
+- Clear app data
+- Limit tracking
 
-Note: Blocking essential cookies may affect app functionality.
+Note: Limiting tracking may affect app functionality.
 
 ### 5.2 Mobile Controls
 

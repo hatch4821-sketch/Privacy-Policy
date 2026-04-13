@@ -8,13 +8,13 @@ This addendum applies to users in India and supplements our Privacy Policy. In c
 
 ## 1. Data Fiduciary
 
-We, **The developer**, act as the Data Fiduciary for processing your personal data.
+We, **The developer** (operating from IIT Bombay, Mumbai), act as the Data Fiduciary for processing your personal data under the Digital Personal Data Protection Act, 2023 (DPDP Act).
 
 ---
 
 ## 2. Your Rights Under Indian Law
 
-As a Data Principal under the Digital Personal Data Protection Act, 2023 (DPDP Act), you have the following rights:
+As a Data Principal under the DPDP Act, you have the following rights:
 
 ### 2.1 Right to Access
 You can request a summary of the personal data we process about you, including:
@@ -50,13 +50,15 @@ Under Indian law, users under 18 are minors. While our minimum age is 16, users 
 ## 4. Data Storage and Security
 
 ### 4.1 Storage Location
-Your data is primarily stored in India. Some data may be stored on servers outside India (e.g., cloud services).
+Your data is primarily stored in India. Some data may be stored on cloud servers outside India.
 
 ### 4.2 Security Measures
 We implement reasonable security practices as required by Indian law:
 - Encryption of data in transit and at rest
 - Access controls
 - Regular security reviews
+- HTTPS encryption
+- Account lockout after failed attempts
 
 ### 4.3 Cross-Border Transfers
 When data is transferred internationally, we ensure appropriate safeguards are in place.
@@ -67,7 +69,7 @@ When data is transferred internationally, we ensure appropriate safeguards are i
 
 Our app may request permissions for:
 - **Camera:** Take photos/videos for profile, posts, work
-- **Microphone:** Record voice messages
+- **Microphone:** Record voice messages (audio up to 10 minutes)
 - **Storage:** Upload photos and files
 - **Location:** Share location in messages, find nearby events
 
@@ -77,7 +79,7 @@ You can deny these permissions at any time. Denying may limit certain features.
 
 ## 6. Grievance Officer
 
-As required by IT Rules, 2021, we have appointed a Grievance Officer:
+As required by Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021, we have appointed a Grievance Officer:
 
 - **Name:** The Developer
 - **Email:** hatch4821@gmail.com

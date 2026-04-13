@@ -12,8 +12,8 @@ If you don't agree, don't create an account or use our Services.
 
 ### 1.2 About Us
 
-We are an individual developer operating from IIT Bombay, Mumbai, India. We offer a platform for students, founders, working professionals, and freelancers to:
-- Showcase their Proof of Work (portfolios, projects)
+We are an individual developer operating from IIT Bombay, Mumbai, India. We offer a mobile platform for students, founders, working professionals, and freelancers to:
+- Showcase Proof of Work (portfolios, projects)
 - Connect with others
 - Join Communities
 - Attend Events
@@ -27,34 +27,161 @@ We are an individual developer operating from IIT Bombay, Mumbai, India. We offe
 
 To use our Services, you must:
 - Be at least 16 years old
-- Have one account in your real name
+- Have one account in your real name (first name + last name)
 - Not be restricted from using our Services
 
-### 2.2 Account Responsibilities
+### 2.2 Account Creation
+
+**Signup Flow:**
+1. Enter your email on Landing Screen
+2. Backend checks if email exists - redirects to Login or Signup
+3. Verify email with 6-digit OTP (sent to your email)
+4. OTP valid for 30 seconds, can regenerate after 30 seconds
+5. Create password (min 8 characters, 1 number, 1 symbol, 1 uppercase)
+6. Enter password twice to confirm
+
+**Social Login:**
+- Sign in with Google or Apple
+- If email already exists with password, link accounts
+- If new email, create account with social profile data
+
+**Login Flow:**
+1. Enter email on Landing Screen
+2. Enter password
+3. On success, redirect to Home Feed
+
+### 2.3 Password Reset
+
+1. Click "Forgot Password" on login screen
+2. Enter registered email
+3. Verify with OTP
+4. Create new password (same criteria as signup)
+
+### 2.4 Account Lockout
+
+After 4 failed login attempts:
+- Account locked for 30 minutes
+- User can wait or reset password to unlock
+
+### 2.5 Account Responsibilities
 
 You agree to:
 - Keep your password secure
 - Not share or transfer your account
-- Follow this Agreement and our Community Guidelines
+- Follow this Agreement and Community Guidelines
 - Be responsible for all activity under your account
-
-### 2.3 Account Security
-
-We may temporarily lock your account after 4 failed login attempts for 30 minutes. You can bypass this by resetting your password.
-
-### 2.4 Account Deletion
-
-You can delete your account anytime. Your profile becomes invisible immediately, and data is permanently deleted within 30 days.
 
 ---
 
-## 3. Content You Create
+## 3. Onboarding
 
-### 3.1 Ownership
+### 3.1 Onboarding Flow
 
-You own the content you create (posts, work, blogs, comments). By posting, you grant us license to display, distribute, and modify your content on our platform.
+After signup or social login, you must complete onboarding:
 
-### 3.2 Content Rules
+1. **Name Entry**
+   - Enter first name and last name (both required)
+   
+2. **Profile Picture**
+   - Upload from gallery or take photo
+   - Can skip (default avatar assigned)
+   
+3. **Role Selection**
+   - Choose one or more: Student, Founder, Working Professional, Freelancer
+   
+4. **Role-Specific Details**
+   - Fill details for each selected role
+
+5. **Interests/Topics** (optional - can skip)
+
+6. **Join Communities** (optional - can skip)
+
+### 3.2 Incomplete Onboarding
+
+If you exit midway:
+- Your progress is saved
+- On next login, you resume from last step
+- `is_onboarding_complete` flag determines routing
+
+### 3.3 Profile Editing
+
+After onboarding, you can edit:
+- Name and profile picture
+- Role-specific details
+- Career goals
+- Interests/topics
+- Social links
+- Experience and education
+- Skills
+- Work portfolio
+
+---
+
+## 4. Using Our Services
+
+### 4.1 Available Features
+
+**Authentication:**
+- Email/password login
+- Google Sign-In
+- Apple Sign-In
+- Password reset
+- Account lockout (30 min after 4 failed attempts)
+
+**Notifications:**
+- Category filters: All, Activities, Connections, Events, Mentions
+- Date filtering: Today, Yesterday, Last 7 Days, Last 30 Days, This Month, Last Month, Custom
+- Options: Mark as Read, Turn Off This Type, Mute, Block, Delete, Report
+
+**Home/Feed:**
+- Post types: text, media, short_video, article, event, product, work
+- Reactions: like, celebrate, support, love, insightful, funny
+- Visibility: everyone, connections only
+- Create posts with text, images/videos, tags, location
+- Search functionality with history
+- Media viewer with zoom
+
+**Profile:**
+- Tabs: Activities, About, Work, Posts
+- Badges: verification, crown (pro), medal (campus rep)
+- Edit experience, education, skills, social links
+
+**Messages:**
+- Direct messages
+- Group chats (max 100 members)
+- Content: text, images, video, audio (10 min max), documents, location
+- Online status, typing indicator, read receipts
+
+**Communities:**
+- Create communities (admin role)
+- Join communities
+- Community roles: member, moderator, admin
+- Visibility: public, private
+- Posting access settings
+
+**Events:**
+- Create events (RSVP for attendees)
+- Event states: draft, published, cancelled, completed
+- RSVP states: going, interested, not going
+
+**Work:**
+- Add work/portfolio items
+- Link to external sites (GitHub, Figma, website)
+- Collaborative work (tag collaborators)
+
+**Jobs:**
+- Post job listings (full-time, contract, freelance, internship)
+- Job preferences: role, location, salary, skills, experience, company size, investment stage, remote
+- Application statuses: Applied, Under Review, Shortlisted, Interview, Offered, Rejected
+- Company profiles
+
+### 4.2 Content You Create
+
+You own your content (posts, work, comments). By posting, you grant us license to:
+- Display your content on our platform
+- Distribute and modify your content as needed
+
+### 4.3 Content Rules
 
 You agree to:
 - Provide accurate information
@@ -62,30 +189,7 @@ You agree to:
 - Not violate others' rights
 - Use your real identity
 
-### 3.3 Our Rights
-
-We may:
-- Remove content that violates our policies
-- Restrict or terminate accounts that breach this Agreement
-- Use feedback you provide without compensation
-
----
-
-## 4. Using Our Services
-
-### 4.1 Available Services
-
-Our platform includes:
-- User profiles and networking
-- Posts and feeds
-- Work/portfolio showcase
-- Communities and groups
-- Events (create, RSVP, attend)
-- Job listings and applications
-- Direct and group messaging
-- Blog articles
-
-### 4.2 Service Changes
+### 4.4 Service Changes
 
 We may change, suspend, or discontinue any feature at any time. We are not obligated to store your content.
 
@@ -94,8 +198,7 @@ We may change, suspend, or discontinue any feature at any time. We are not oblig
 ## 5. Fees and Payments
 
 If you purchase paid features:
-- You agree to pay applicable fees and taxes
-- We may store your payment method for future billing
+- Pay applicable fees and taxes
 - Failure to pay may result in termination of paid features
 
 ---
@@ -104,7 +207,7 @@ If you purchase paid features:
 
 ### 6.1 No Warranty
 
-Our Services are provided "as is" without any warranties. We do not guarantee:
+Our Services are provided "as is" without warranties. We do not guarantee:
 - Uninterrupted or error-free service
 - Accuracy of user content
 - Availability at all times
@@ -132,6 +235,7 @@ You will NOT:
 - Violate intellectual property rights
 - Spam or send unsolicited messages
 - Use bots or automated systems
+- Post inappropriate content
 - Violate any laws
 
 ### 7.2 Content Guidelines
@@ -146,7 +250,7 @@ We expect you to:
 
 ## 8. Intellectual Property
 
-We own all rights to our platform, including our logos and trademarks. You may not use our branding without permission.
+We own all rights to our platform, including logos and trademarks. You may not use our branding without permission.
 
 ---
 
@@ -165,10 +269,9 @@ We may restrict, suspend, or terminate your account if you:
 
 ### 9.3 Effect of Termination
 
-Upon termination:
 - You lose access to Services
 - Your profile becomes invisible
-- Data is deleted within 30 days
+- Data deleted within 30 days
 - Messages in group chats may remain visible
 
 ---
@@ -181,7 +284,6 @@ This Agreement is governed by the laws of India, specifically the courts in Mumb
 
 ## 11. Contact Us
 
-For questions or support, contact:
 - **Email:** hatch4821@gmail.com
-- **Address:** The developer, IIT Bombay, Powai, Mumbai, Maharashtra, India
 - **Phone:** +918210994905
+- **Address:** The developer, IIT Bombay, Powai, Mumbai, Maharashtra, India

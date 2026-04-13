@@ -52,53 +52,115 @@ Our platform is a community of builders, students, founders, and professionals. 
 
 ---
 
-## 3. Roles and Responsibilities
+## 3. Platform-Specific Rules
 
-### 3.1 Regular Users
+### 3.1 Profiles
+
+- Use your real name (first name + last name)
+- Upload genuine photos of yourself
+- Only claim work you actually did
+- Provide accurate professional information
+- Headline max 100 characters
+- About me max 1500 characters
+
+### 3.2 Posts
+
+- Post types: text, media, short_video, article, event, product, work
+- No inappropriate content
+- No misleading information
+- Tag limit: max 10 tags per post
+- Comment limit: max 1000 characters
+- Nested replies: max 3 levels deep
+
+### 3.3 Work/Portfolios
+
+- Only upload your own work
+- Give credit for collaborative work
+- Don't exaggerate your contributions
+- Be transparent about AI-assisted work
+- Link to external sites (GitHub, Figma, website)
+
+### 3.4 Communities
+
+- Stay on topic
+- Don't spam
+- Follow community-specific rules
+- Be respectful in discussions
+- Community roles: member, moderator, admin
+
+### 3.5 Events
+
+- Provide accurate event information
+- Don't host fake events
+- Be responsive to attendees
+- RSVP states: going, interested, not going
+
+### 3.6 Jobs
+
+- Post genuine job opportunities
+- Provide accurate company information
+- Don't disguise unpaid work as paid
+- Be responsive to applicants
+- Salary must be accurate (if disclosed)
+
+### 3.7 Messages
+
+- Don't send spam
+- Respect others' privacy
+- Don't send unwanted advances
+- Keep conversations professional
+- Max 100 members in group chats
+- Audio messages max 10 minutes
+
+---
+
+## 4. Roles and Responsibilities
+
+### 4.1 Regular Users
 
 - Follow these guidelines
 - Report violations
 - Engage authentically
 
-### 3.2 Community Admins
+### 4.2 Community Admins
 
-Community admins can:
 - Remove posts that violate guidelines
 - Remove problematic members
 - Update community settings
-- Approve/deny membership requests
+- Cannot access private user data
 
-Admins cannot:
-- Access private user data
-- Violate these guidelines
-- Create fake engagement
+### 4.3 Event Organizers
 
-### 3.3 Event Organizers
-
-Event hosts can:
 - Set event details and requirements
 - Manage RSVPs
 - Remove attendees who violate guidelines
 
+### 4.4 Recruiters/Employers
+
+- Post genuine job listings
+- Provide accurate company information
+- Respond to applicants
+- Update application statuses
+
 ---
 
-## 4. Enforcement
+## 5. Enforcement
 
-### 4.1 Consequences
+### 5.1 Consequences
 
 If you violate these guidelines, we may:
 - Remove the content
 - Warn you
-- Temporarily restrict your account
+- Temporarily restrict your account (30-minute lockout after 4 failed login attempts)
 - Permanently ban your account
 
-### 4.2 How We Detect Violations
+### 5.2 How We Detect Violations
 
 - User reports
 - Automated systems
 - Manual review
 
-### 4.3 Reporting
+### 5.3 Reporting
 
 If you see something that violates these guidelines:
 - Use the "Report" button on the content
@@ -106,59 +168,21 @@ If you see something that violates these guidelines:
 
 ---
 
-## 5. Specific Rules
+## 6. Badges
 
-### 5.1 Profiles
-
-- Use your real name
-- Upload genuine photos of yourself
-- Only claim work you actually did
-- Provide accurate professional information
-
-### 5.2 Work/Portfolios
-
-- Only upload your own work
-- Give credit for collaborative work
-- Don't exaggerate your contributions
-- Be transparent about AI-assisted work
-
-### 5.3 Communities
-
-- Stay on topic
-- Don't spam
-- Follow community-specific rules
-- Be respectful in discussions
-
-### 5.4 Events
-
-- Provide accurate event information
-- Don't host fake events
-- Follow capacity limits
-- Be responsive to attendees
-
-### 5.5 Jobs
-
-- Post genuine job opportunities
-- Provide accurate company information
-- Don't disguise unpaid work as paid
-- Be responsive to applicants
-
-### 5.6 Messages
-
-- Don't send spam
-- Respect others' privacy
-- Don't send unwanted advances
-- Keep conversations professional
+- **Verification badge** - for verified accounts
+- **Crown badge** - for pro users
+- **Medal badge** - for campus representatives
 
 ---
 
-## 6. Appeals
+## 7. Appeals
 
 If your account is restricted, you can contact us to appeal. We review appeals on a case-by-case basis.
 
 ---
 
-## 7. Contact
+## 8. Contact
 
 For questions about these guidelines:
 - **Email:** hatch4821@gmail.com
