@@ -137,16 +137,29 @@ We use cookies and tracking technologies to recognize you and remember your pref
 
 **Notifications**
 We send you notifications for:
-- Likes, comments, reactions on your posts
+- Likes, comments, replies on your posts
+- Trending posts
 - New followers and connection requests
+- Community joins and new posts in communities
+- Mentions in posts/comments
 - Messages
-- Community posts (if you're a member)
-- Event reminders and updates
+- Event RSVPs, reminders (30 min, 24 hours before), updates
 - Job alerts matching your preferences
 - Application status updates
 - New device login alerts
+- Product comments, launch upvotes
 
 You can control notification preferences in Settings.
+
+**Notification Actions:**
+- Mark as Read
+- Turn Off This Type (mute notification category)
+- Mute user (stop notifications from specific user)
+- Block user
+- Delete notification
+- Report user/content
+- Filter by category: All, Activities, Connections, Events, Mentions
+- Filter by date: Today, Yesterday, Last 7 Days, Last 30 Days, This Month, Last Month, Custom
 
 **Messaging**
 - Enable direct messages, group chats, and community chats
@@ -164,9 +177,10 @@ You can control notification preferences in Settings.
 
 **Profile**
 - Display your profile with tabs: Activities, About, Work, Posts
-- Show badges (verification, crown for pro users)
+- Show badges (verification, crown for pro users, medal for campus reps)
 - Display connection count and list
 - Connection states: not connected, pending, connected, blocked
+- Edit experience, education, skills, social links
 
 **Communities**
 - Create and join communities
@@ -180,10 +194,13 @@ You can control notification preferences in Settings.
 - RSVP states: going, interested, not going
 
 **Work/Jobs**
-- Post job listings (full-time, contract, freelance, internship)
+- Post job listings (full-time, contract, freelance, internship, co-founder)
 - Company profiles with size, stage, verification
 - Application statuses: Applied, Under Review, Shortlisted, Interview, Offered, Rejected
-- Job preferences: role, location, salary range, skills, experience, company size, investment stage, remote culture
+- Job preferences: role, location, salary range, skills, experience, company size (1-10 to 5000+), investment stage (seed to IPO), remote culture toggle, responsiveness toggle
+- Job cards show: company logo, tags, location, work mode, salary range, hiring signals
+- Resume upload (PDF, DOC, DOCX - max 10MB)
+- Visa sponsorship status
 
 ### 2.3 Improving Our Services
 
