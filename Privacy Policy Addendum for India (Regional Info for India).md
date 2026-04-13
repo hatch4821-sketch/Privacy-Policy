@@ -1,48 +1,103 @@
-# Hatch Privacy Policy Addendum for India
+# The developer Privacy Policy Addendum for India
 
-**Effective Date:** [Date, e.g., April 1, 2024]
+**Effective Date:** April 13, 2026
 
-This Privacy Policy Addendum for users in India (the "Addendum") supplements the Hatch Privacy Policy and User Agreement. It provides additional disclosures and information required by Indian laws, including the Information Technology Act, 2000, the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021, and the Digital Personal Data Protection Act, 2023 (DPDP Act).
+This addendum applies to users in India and supplements our Privacy Policy. In case of conflict, this addendum prevails for Indian users.
 
-If there is a conflict between the global Hatch Privacy Policy and this Addendum, the provisions of this Addendum shall prevail for users residing in India.
+---
 
 ## 1. Data Fiduciary
-For users located in India, **[Your Company Legal Name / Indian Subsidiary Name, if applicable]** acts as the Data Fiduciary (Data Controller) responsible for the processing of your personal data.
 
-## 2. Your Rights Under Indian Data Protection Laws (DPDP Act)
-As a "Data Principal" under Indian law, you have specific rights regarding your personal data. Hatch provides tools within your account settings to help you exercise these rights:
+We, **The developer**, act as the Data Fiduciary for processing your personal data.
 
-* **Right to Access:** You have the right to obtain a summary of the personal data we process about you, the underlying processing activities, and the identities of all other Data Fiduciaries and Data Processors with whom we have shared your personal data.
-* **Right to Correction and Erasure:** You can update, correct, or complete your profile information (such as your role, Proof of Work, or educational details) at any time. You also have the right to request the erasure of your personal data when it is no longer necessary for the purpose for which it was collected, or if you withdraw your consent.
-* **Right to Withdraw Consent:** Where we rely on your consent to process your data, you have the right to withdraw that consent at any time. Please note that withdrawing consent may affect your ability to use certain features of the Hatch app (e.g., Communities or Events).
-* **Right of Grievance Redressal:** You have the right to readily available means of grievance redressal, which Hatch provides through our Grievance Officer (details below).
-* **Right to Nominate:** You have the right to nominate another individual who shall, in the event of your death or incapacity, exercise your rights regarding your Hatch data. *(Note: You can contact our support team to register a nominee).*
+---
 
-To exercise any of these rights, please visit your **Settings & Privacy** page or contact us at **[Insert Privacy Email, e.g., privacy@hatch.com]**.
+## 2. Your Rights Under Indian Law
 
-## 3. Age Restrictions and Children's Data
-Under Indian law, individuals under the age of 18 are considered minors. While Hatch's global policy allows users who are 16 and older, users in India between the ages of 16 and 18 may be subject to verifiable parental consent requirements. Hatch reserves the right to implement age-gating, request age verification, or require verifiable parental consent for Indian users under the age of 18 to comply with the DPDP Act. We do not use the data of minors for targeted advertising.
+As a Data Principal under the Digital Personal Data Protection Act, 2023 (DPDP Act), you have the following rights:
 
-## 4. Data Storage, Security, and Cross-Border Transfers
-To provide our Services to you-including hosting your "Proof of Work" portfolios, facilitating Community chats, and managing Event RSVPs-your personal data may be stored and processed on servers located outside of India, such as in the United States.
+### 2.1 Right to Access
+You can request a summary of the personal data we process about you, including:
+- What data we collect
+- How we process it
+- Who we share it with
 
-We implement "reasonable security practices and procedures" as mandated under Indian law to protect your data from unauthorized access, modification, or disclosure. When transferring data internationally, we ensure that appropriate technical and legal safeguards are in place.
+### 2.2 Right to Correction and Erasure
+- Update your profile information anytime
+- Request erasure of your personal data
+- Withdraw consent for data processing
 
-Please note that certain features of the Hatch app, such as sharing live locations in messages or recording audio messages, require specific device permissions (Location, Microphone, Storage). You have the right to deny these permissions at the device level, though it will limit your ability to use those specific features.
+### 2.3 Right to Withdraw Consent
+- Withdraw consent for processing at any time
+- Note: Withdrawing consent may limit your ability to use certain features
 
-## 5. Grievance Redressal Mechanism (IT Rules, 2021)
-In accordance with the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021, Hatch has appointed a Grievance Officer to address concerns regarding your data, privacy, or content on the platform (such as reports of abusive behavior, fake profiles, or IP infringement).
+### 2.4 Right to Grievance Redressal
+You have the right to raise grievances. We will acknowledge complaints within 24 hours and resolve within 15 days.
 
-We will acknowledge your complaint within 24 hours of receipt and endeavor to resolve it within 15 days.
+### 2.5 Right to Nominate
+You can nominate another person to exercise your data rights in case of your death or incapacity.
 
-**Grievance Officer Details:**
-* **Name:** [Insert Name of Grievance Officer - *Must be an individual resident in India*]
-* **Designation:** Grievance Officer, India
-* **Email Address:** [Insert Grievance Email, e.g., grievance-india@hatch.com]
-* **Physical Address:** [Insert physical office address in India]
-* **Contact Number:** [Insert phone number, optional but recommended]
+To exercise these rights, contact us at **hatch4821@gmail.com** or visit your Settings & Privacy page.
 
-If you see something that violates our Professional Community Policies, you may report it directly through the Hatch app or by contacting the Grievance Officer above.
+---
 
-## 6. Regulatory Appeals
-If your complaint is not resolved satisfactorily by our Grievance Officer, you have the right to appeal to the Data Protection Board of India or the relevant Grievance Appellate Committee (GAC) established by the Ministry of Electronics and Information Technology (MeitY), Government of India.
+## 3. Age Requirements
+
+Under Indian law, users under 18 are minors. While our minimum age is 16, users in India aged 16-18 may need parental consent. We may verify age or request consent as required by the DPDP Act.
+
+---
+
+## 4. Data Storage and Security
+
+### 4.1 Storage Location
+Your data is primarily stored in India. Some data may be stored on servers outside India (e.g., cloud services).
+
+### 4.2 Security Measures
+We implement reasonable security practices as required by Indian law:
+- Encryption of data in transit and at rest
+- Access controls
+- Regular security reviews
+
+### 4.3 Cross-Border Transfers
+When data is transferred internationally, we ensure appropriate safeguards are in place.
+
+---
+
+## 5. Device Permissions
+
+Our app may request permissions for:
+- **Camera:** Take photos/videos for profile, posts, work
+- **Microphone:** Record voice messages
+- **Storage:** Upload photos and files
+- **Location:** Share location in messages, find nearby events
+
+You can deny these permissions at any time. Denying may limit certain features.
+
+---
+
+## 6. Grievance Officer
+
+As required by IT Rules, 2021, we have appointed a Grievance Officer:
+
+- **Name:** The Developer
+- **Email:** hatch4821@gmail.com
+- **Address:** IIT Bombay, Powai, Mumbai, Maharashtra, India
+- **Phone:** +918210994905
+
+For any data privacy concerns or to report violations, contact the Grievance Officer.
+
+---
+
+## 7. Regulatory Appeal
+
+If your grievance is not resolved satisfactorily, you can appeal to:
+- The Data Protection Board of India
+- The Grievance Appellate Committee (GAC) under MeitY
+
+---
+
+## 8. Contact
+
+For privacy-related questions:
+- **Email:** hatch4821@gmail.com
+- **Phone:** +918210994905
