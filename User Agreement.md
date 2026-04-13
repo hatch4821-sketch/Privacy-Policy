@@ -286,4 +286,4 @@ This Agreement is governed by the laws of India
 
 - **Email:** hatch4821@gmail.com
 - **Phone:** +918210994905
-- **Address:** The developer, IIT Bombay
+- **Address:** IIT Bombay

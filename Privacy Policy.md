@@ -320,4 +320,4 @@ Your data is stored primarily in India. International transfers have appropriate
 
 - **Email:** hatch4821@gmail.com
 - **Phone:** +918210994905
-- **Address:** The developer, IIT Bombay
+- **Address:** IIT Bombay
