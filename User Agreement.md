@@ -278,7 +278,7 @@ We may restrict, suspend, or terminate your account if you:
 
 ## 10. Governing Law
 
-This Agreement is governed by the laws of India, specifically the courts in Mumbai, Maharashtra, India.
+This Agreement is governed by the laws of India
 
 ---
 
@@ -286,4 +286,4 @@ This Agreement is governed by the laws of India, specifically the courts in Mumb
 
 - **Email:** hatch4821@gmail.com
 - **Phone:** +918210994905
-- **Address:** The developer, IIT Bombay, Powai, Mumbai, Maharashtra, India
+- **Address:** The developer, IIT Bombay

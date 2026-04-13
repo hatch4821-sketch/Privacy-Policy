@@ -8,7 +8,7 @@ This addendum applies to users in India and supplements our Privacy Policy. In c
 
 ## 1. Data Fiduciary
 
-We, **The developer** (operating from IIT Bombay, Mumbai), act as the Data Fiduciary for processing your personal data under the Digital Personal Data Protection Act, 2023 (DPDP Act).
+We, **The developer** (operating from IIT Bombay), act as the Data Fiduciary for processing your personal data under the Digital Personal Data Protection Act, 2023 (DPDP Act).
 
 ---
 
@@ -83,7 +83,7 @@ As required by Information Technology (Intermediary Guidelines and Digital Media
 
 - **Name:** The Developer
 - **Email:** hatch4821@gmail.com
-- **Address:** IIT Bombay, Powai, Mumbai, Maharashtra, India
+- **Address:** IIT Bombay
 - **Phone:** +918210994905
 
 For any data privacy concerns or to report violations, contact the Grievance Officer.
