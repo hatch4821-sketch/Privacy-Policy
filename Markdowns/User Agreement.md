@@ -1,4 +1,4 @@
-# The developer User Agreement
+# User Agreement
 
 **Effective Date:** April 13, 2026
 
@@ -80,17 +80,14 @@ You agree to:
 After signup or social login, you must complete onboarding:
 
 1. **Name Entry**
-   - Enter first name and last name (both required)
-   
+- Enter first name and last name (both required)
 2. **Profile Picture**
-   - Upload from gallery or take photo
-   - Can skip (default avatar assigned)
-   
+- Upload from gallery or take photo
+- Can skip (default avatar assigned)
 3. **Role Selection**
-   - Choose one or more: Student, Founder, Working Professional, Freelancer
-   
+- Choose one or more: Student, Founder, Working Professional, Freelancer
 4. **Role-Specific Details**
-   - Fill details for each selected role
+- Fill details for each selected role
 
 5. **Interests/Topics** (optional - can skip)
 

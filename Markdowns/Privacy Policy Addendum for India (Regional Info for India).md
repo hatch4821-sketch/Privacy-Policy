@@ -1,4 +1,4 @@
-# The developer Privacy Policy Addendum for India
+# Privacy Policy Addendum for India
 
 **Effective Date:** April 13, 2026
 

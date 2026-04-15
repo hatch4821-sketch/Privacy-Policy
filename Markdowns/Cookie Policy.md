@@ -1,4 +1,4 @@
-# The developer Cookie Policy
+# Cookie Policy
 
 **Effective Date:** April 13, 2026
 

@@ -1,4 +1,4 @@
-# The developer Community Guidelines
+# The Developer Community Guidelines
 
 **Effective Date:** April 13, 2026
 

@@ -1,4 +1,4 @@
-# The developer Privacy Policy
+# Privacy Policy
 
 **Effective Date:** April 13, 2026
 
