@@ -1,0 +1,76 @@
+name: Generate HTML and Deploy to Pages
+
+on:
+  push:
+    branches: ["main"]
+    paths:
+      - "Markdowns/**"
+      - "scripts/generate.js"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: |
+          if [ -f package-lock.json ]; then
+            npm ci
+          else
+            npm install
+          fi
+
+      - name: Generate HTML & Rewrite README
+        run: npm run generate
+
+      - name: Commit back to repository
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "docs(auto): update generated HTML and README [skip ci]"
+
+      - name: Prepare deployment
+        run: |
+          mkdir -p _site
+          cp -r Html _site/
+          mkdir -p _site/assets
+          if [ ! -d "assets" ]; then
+            mkdir -p assets
+            curl -o assets/github-markdown.css https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.5.0/github-markdown.min.css
+            curl -o assets/highlight-github.css https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/github.min.css
+          fi
+          cp -r assets/* _site/assets/
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '_site'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5

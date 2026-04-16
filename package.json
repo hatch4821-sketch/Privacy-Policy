@@ -1,0 +1,17 @@
+{
+  "name": "privacy-policy-html-generator",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Converts Markdown policies to styled HTML",
+  "scripts": {
+    "generate": "node scripts/generate.js"
+  },
+  "dependencies": {
+    "highlight.js": "^11.11.1",
+    "markdown-it": "^14.1.1",
+    "markdown-it-anchor": "^9.2.0",
+    "markdown-it-emoji": "^3.0.0",
+    "markdown-it-mathjax3": "^5.2.0",
+    "markdown-it-task-lists": "^2.1.1"
+  }
+}
